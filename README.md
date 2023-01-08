@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Maruf Hossain Munna
-#### MERN Stack Developer
+### I'm Maruf Hossain Munna
+##### MERN Stack Developer
 ![MERN Stack Developer](https://media.licdn.com/dms/image/D5616AQEV27chJiQ0Lg/profile-displaybackgroundimage-shrink_350_1400/0/1670776360249?e=1678924800&v=beta&t=SFN-DoZX-takVg1APkrQ9kqowmYr_PG5G6Pal2oi20c)
 
 My name is Maruf Hossain Munna. I'm currently work with MERN stack Development. I have been working with JavaScript & it's library React js for 8 months.
